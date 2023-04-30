@@ -4,8 +4,8 @@
 let num2 = (document.getElementById("num2").textContent = Math.floor(
   Math.random() * (100 - 0) + 0
 ));*/
-let num1 = document.getElementById("num1").textContent = parseInt(prompt('Ingrese un numero'));
-let num2 = document.getElementById("num2").textContent = parseInt(prompt('Ingrese otro numero'));
+let num1 = document.getElementById("num1").textContent = 50//parseInt(prompt('Ingrese un numero'));
+let num2 = document.getElementById("num2").textContent = 100//parseInt(prompt('Ingrese otro numero'));
 
 
 
